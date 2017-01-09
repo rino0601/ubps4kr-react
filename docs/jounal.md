@@ -38,6 +38,20 @@ THE DAY of discharge YEAH!
 
 
 ## January 9th, 2017: 4th day after discharge.
+- Started work at 12:47.
+- read [kriasoft/react-starter-kit repo](https://github.com/kriasoft/react-starter-kit)carefully.
+  - This project isn't for a beginner. But has lots of referenced tutorials and guides.
+  - At the first time, I glanced that project. I was frustrated because there were so many technics that I'd never seen. It seems I'll never understand all of those technics.
+  - but somehow, I virtually started Isomorphic app development as zero bases. Therefore, I don't have to lose anything even if I waste my time to read and understand those technics. hmm, that make sense. keep streak for it.
+
+- read [reduxJs official document](http://redux.js.org/) to understand Flux patterns and redux library.
+- read [(KOR)[React.JS] 강좌 10-1편 Redux: React 앱의 효율적인 데이터 교류](https://velopert.com/1225)
+- read [(KOR)[React.JS] 강좌 10-2편 Redux: 예제를 통해 사용해보기](https://velopert.com/1266)
+  -THX velopert!!
+- watched video from [Flux](http://facebook.github.io/flux/).
+- read [You might not need redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.pqkw1co7n).
+-read [Thinking in react](https://facebook.github.io/react/docs/thinking-in-react.html)
+
 ## January 10th, 2017: 5th day after discharge.
 ## January 11th, 2017: 6th day after discharge.
 ## January 12th, 2017: 7th day after discharge.
