@@ -53,7 +53,49 @@ THE DAY of discharge YEAH!
 -read [Thinking in react](https://facebook.github.io/react/docs/thinking-in-react.html)
 
 ## January 10th, 2017: 5th day after discharge.
+- Thought that I have less understand about modern CSS so that I couldn't jump into actual web project. So I started to take a class for CSS on [Here](https://www.codecademy.com/learn/learn-html-css)
+- Searched several keywords(React-native, Google voice recognition, image caching on React).
+- created a project by 'create-react-app' at '~/Desktop/test/create-by-ws'. I'll use this project as a sandbox.
+- read ReadMe.md of 'create-react-app' from A to Z.
+  - It is a remarkable tool for newbies.
+  
 ## January 11th, 2017: 6th day after discharge.
+- kept streak for CSS class.
+- tried to use 'material-ui'.
+  - installation wasn't problem for me.
+  - I was able to add a Floating Action Button with AddAPictureIcon easily.
+- met the people of 'Cedar.kr', As I expected, It was a job offer. I pretended to be half-interested.
+
 ## January 12th, 2017: 7th day after discharge.
+- kept streak for CSS class. Although it is really boring, I believe it will help to me.
+- I heard that there is Korean translation document for the redux-react guide. So I do google it. then I read it a little. [HERE](http://dobbit.github.io/redux/)
+- My new laptop has arrived. took some time for setting it.
+- Atempted by [chocoratey](http://chocoratey.org). It is kind of package manager for windows system. I'll try it. Took a time for read documents for it.
 
 # 2nd week
+## January 13th, 2017: 8th day after discharge.
+- Installed chocoratey. 
+- Using 'choco install', install several gardgets (e.g: git, sourcetree, nodejs ...)
+- Manullay migrated from old mac to new win10 laptop.
+- Faced, Handled npm build fail problem. I think it was an encoding proplem.
+  - remove 'node_modules' directory & run 'npm install' to solve the problem.
+
+## January 14th, 2017: 9th day after discharge.
+- There were nothing changed. I was busy to get a date.
+
+## January 15th, 2017: 10th day after discharge.
+- I have no idea what I did this day.
+
+## January 16th, 2017: 11th day after discharge.
+- Meet up with CAU ECLab, talked about a new project building educational service website by Flask.
+- I decided to join them. for now, remote work at home.
+
+## January 17th, 2017: 12th day after discharge.
+- Meat up with Cedar.Inc, I was offered a job. whatever, however, whenever about work was depending on my choice. oh Great, There is no reason to refuse.
+- So I also decided to join them. Got a second (But, the first priority of) job.
+
+## January 18th, 2017: 13th day after discharge.
+- The first day of attendance at the new job. 
+- Because I have to concentrate to the new job, My personal project(this project) will be pending.
+
+# jounal END
