@@ -3,12 +3,16 @@ import {List, ListItem} from "material-ui/List";
 import Subheader from "material-ui/Subheader";
 import Divider from "material-ui/Divider";
 import Paper from "material-ui/Paper";
-import "./MyList.css";
 import {Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn} from "material-ui/Table";
-
+import styled from "styled-components";
 
 class MyList extends Component {
     render() {
+        const Div= styled.div`
+            width: 100%;
+            height: 50px;
+            background-color: #FFBBFF;
+        `;
         let xml = <ListItem>
             <Paper className="list-item">
                 <img src="http://image.aladin.co.kr/product/1286/96/coversum/8956372284_1.jpg"/>
@@ -43,10 +47,13 @@ class MyList extends Component {
         </ListItem>;
         return (
             <List>
+                <Div/>
                 <Subheader>test list</Subheader>
+                <Divider inset={false}/>
                 {xml}
                 {xml}
-                <Divider inset={true}/>
+                {xml}
+                {xml}
             </List>
         );
     }
